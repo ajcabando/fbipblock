@@ -108,3 +108,10 @@ video.h1.bytedance.map.fastly.net
 byteoversea.net
 quic-normal-lb-gcp.byteoversea.net
 security-lb-maliva.byteoversea.net
+71.18.255.0/24
+103.136.220.0/23
+103.136.220.0/24
+103.136.221.0/24
+103.136.222.0/24
+103.136.223.0/24
+118.26.132.0/24
