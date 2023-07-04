@@ -1,4 +1,3 @@
-alain@observium:~$ cat observium_installscript.sh 
 #!/bin/bash
 set -e
 
